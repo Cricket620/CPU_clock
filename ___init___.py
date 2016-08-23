@@ -9,3 +9,7 @@ nanostick = speed_of_light*billionth
 
 #Processor speed (cycles per second - 2.7GHz used as example)
 cycles_per_second = 2700000000
+
+cycle_distance = nanostick/cycles_per_second
+
+print cycle_distance
