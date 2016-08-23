@@ -7,3 +7,5 @@ billionth = 1.0/1000000000
 #Nanostick - number of nanometers that a photon in a vacuum travels in one second
 nanostick = speed_of_light*billionth
 
+#Processor speed (cycles per second - 2.7GHz used as example)
+cycles_per_second = 2700000000
